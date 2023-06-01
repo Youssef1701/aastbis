@@ -20,7 +20,7 @@ In your console, run:
 <sup>(You may need to add `sudo` at start)</sup>
 
 ```
-npm install -g keppler
+npm install -g aastbis
 ```
 
 
@@ -38,7 +38,7 @@ AASTBIS should open in your default browser and start watching any changes you m
 
 #### 3 - Share the URL with your audience
 
-Simply share the URL that should appear and your audience will have access to your code through Keppler.
+Simply share the URL that should appear and your audience will have access to your code through AASTBIS.
 By default, you must be on the same network.
 
 ## Configuration
@@ -89,7 +89,7 @@ Arguments list
 |parameter|`--open`|
 |shortcut|`-o`|
 |default value|*(bool)*`true`|
-|description|Open Keppler in default browser|
+|description|Open AASTBIS in default browser|
 
 |||
 |---|---|
@@ -157,7 +157,7 @@ aastbis --server
 
 #### On you local machine
 
-Start keppler with the `--host` parameter and server domain as the value
+Start AASTBIS with the `--host` parameter and server domain as the value
 
 ```
 aastbis "My awesome project" --host 12.34.56.78
@@ -174,7 +174,7 @@ aastbis "My awesome project" --host 12.34.56.78
 - Accessible by anyone on the same network
 - App like design
 - Syntax coloring
-- Multiple projects in one Keppler instance
+- Multiple projects in one AASTBIS instance
 - Chat with other viewers and associate specific files and lines with your messages
 - Open in default browser
 - Download file button
@@ -200,10 +200,10 @@ Installation
 
 - `npm install`
 
-Keppler application
+AASTBIS application
 
-- `npm run demo-folder`: To run the Keppler application with a demo project located in `/test/`
-- `npm run app-dev`: To run the Keppler front part (you'll need to run keppler application in order to have the front to connect to something)
+- `npm run demo-folder`: To run the AASTBIS application with a demo project located in `/test/`
+- `npm run app-dev`: To run the AASTBIS front part (you'll need to run AASTBIS application in order to have the front to connect to something)
 - `npm run app-build`: To build the front part
 - `npm run dev`: To run both `demo-folder` and `app-dev`
 
@@ -230,11 +230,8 @@ Website
 
 ##### Development
 
-- Bruno Simon ([GitHub](https://github.com/brunosimon), [Twitter](https://twitter.com/bruno_simon/), [Site](https://bruno-simon.com))
+- Youssef Ehab ([GitHub](https://github.com/Youssef1701), [LinkedIn](https://www.linkedin.com/in/youssef-ehab-92b9791a2/), [Site](https://www.youssefehab.com/))
 
-##### UX / UI
+##### Idea
 
-- Tom Bonnike
-- Thibaud Vaubourg
-- Aymeric Sans
-- Axel Chalon
+Done by AAST-SV BIS students under supervision of Assoc. Prof. Dr. Ahmed Elseddawy
