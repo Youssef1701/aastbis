@@ -1,0 +1,22 @@
+{
+  "name": "aastbis",
+  "version": "1.0.0",
+  "description": "real-time code sharing",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Youssef1701/aastbis.git"
+  },
+  "keywords": [
+    "aastbis"
+  ],
+  "author": "Youssef Ehab",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Youssef1701/aastbis/issues"
+  },
+  "homepage": "https://github.com/Youssef1701/aastbis#readme"
+}

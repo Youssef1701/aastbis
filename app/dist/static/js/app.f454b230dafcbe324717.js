@@ -21578,7 +21578,7 @@ webpackJsonp(
         "The clearer your code, the fewer comments you need",
         "Update your dependencies",
         "Document your code",
-        "Have clear instructions in your README.md",
+        "Have clear instructions in your place",
         "Have your software tested by someone else",
         "Be consistent in your commit messages",
         "Don't invent new standards",
@@ -37229,7 +37229,7 @@ webpackJsonp(
                   ),
                   e._v(" "),
                   i("p", { staticClass: "title" }, [
-                    e._v("aastbid "),
+                    e._v("aastbis "),
                     i("span", { staticClass: "version" }, [
                       e._v(e._s(e.version)),
                     ]),
@@ -37266,7 +37266,7 @@ webpackJsonp(
                   "a",
                   {
                     attrs: {
-                      href: "https://github.com/brunosimon/aastbid",
+                      href: "https://github.com/Youssef1701",
                       target: "_blank",
                     },
                   },
@@ -37279,7 +37279,7 @@ webpackJsonp(
                   "a",
                   {
                     attrs: {
-                      href: "https://www.npmjs.com/package/aastbid",
+                      href: "https://www.npmjs.com/package/aastbis",
                       target: "_blank",
                     },
                   },
@@ -37294,12 +37294,12 @@ webpackJsonp(
               n = e._self._c || t;
             return n("ul", [
               n("li", [
-                e._v("Bruno Simon ("),
+                e._v("Youssef Ehab ("),
                 n(
                   "a",
                   {
                     attrs: {
-                      href: "https://github.com/brunosimon",
+                      href: "https://github.com/Youssef1701",
                       target: "_blank",
                     },
                   },
@@ -37310,18 +37310,18 @@ webpackJsonp(
                   "a",
                   {
                     attrs: {
-                      href: "https://twitter.com/bruno_simon/",
+                      href: "https://www.linkedin.com/",
                       target: "_blank",
                     },
                   },
-                  [e._v("Twitter")]
+                  [e._v("LinkedIn")]
                 ),
                 e._v(", "),
                 n(
                   "a",
                   {
                     attrs: {
-                      href: "https://bruno-simon.com",
+                      href: "https://youssefehab.com/",
                       target: "_blank",
                     },
                   },
@@ -37336,11 +37336,11 @@ webpackJsonp(
               t = e.$createElement,
               n = e._self._c || t;
             return n("ul", [
-              n("li", [e._v("Tom Bonnike")]),
+              n("li", [e._v("Prof. Ahmed El seddawy")]),
               e._v(" "),
-              n("li", [e._v("Thibaud Vaubourg")]),
+              n("li", [e._v("Dr. Ahmed Halawa")]),
               e._v(" "),
-              n("li", [e._v("Aymeric Sans")]),
+              n("li", [e._v("Dr. Mamdouh AlaaEldin")]),
               e._v(" "),
               n("li", [e._v("Axel Chalon")]),
             ]);
@@ -38301,7 +38301,7 @@ webpackJsonp(
               n("illustration", { attrs: { name: "astronaut" } }),
               e._v(" "),
               n("div", { staticClass: "title" }, [
-                e._v("\n        Welcome to aastbid!\n    "),
+                e._v("\n        Welcome to aastbis!\n    "),
               ]),
               e._v(" "),
               n("div", { staticClass: "sub-title" }, [
@@ -39430,12 +39430,12 @@ webpackJsonp(
     },
     function (e, t) {
       e.exports = {
-        name: "aastbid-j",
+        name: "aastbis-j",
         version: "1.4.3",
         description:
           "Real time code sharing for your lectures and presentations",
         keywords: [
-          "aastbid",
+          "aastbis",
           "teach",
           "learn",
           "code",
@@ -39443,7 +39443,7 @@ webpackJsonp(
           "live-coding",
           "share",
         ],
-        bin: { "aastbid-j": "bin/index.js" },
+        bin: { "aastbis-j": "bin/index.js" },
         main: "bin/index.js",
         scripts: {
           "demo-folder":
@@ -39457,13 +39457,12 @@ webpackJsonp(
         },
         repository: {
           type: "git",
-          url: "https://github.com/brunosimon/aastbid",
+          url: "https://github.com/Youssef1701",
         },
-        author:
-          "Bruno Simon <contact@bruno-simon.com> (http://bruno-simon.ninja)",
+        author: "Youssef Ehab <yehab1805@gmail.com> (http://youssefehab.com)",
         license: "MIT",
-        bugs: { url: "https://github.com/brunosimon/aastbid/issues" },
-        homepage: "https://github.com/brunosimon/aastbid",
+        bugs: { url: "https://github.com/Youssef1701/issues" },
+        homepage: "https://github.com/Youssef1701",
         dependencies: {
           chalk: "^2.3.0",
           chokidar: "^2.0.0",
