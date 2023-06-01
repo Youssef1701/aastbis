@@ -17,8 +17,8 @@ Any time you save a file, viewers will receive those changes. They can browse th
 You must have [NodeJS](https://nodejs.org/en/) and [NPM](https://www.npmjs.org) already installed.
 In your console, run:
 
-<sup>(You may need to add `sudo` at start for Mac)</sup>
-<sup>(You may need to run `Set-ExecutionPolicy RemoteSigned` first at windows powershel)</sup>
+<sup>(You may need to add `sudo` at start for Mac)</sup><br>
+<sup>(You may need to run `Set-ExecutionPolicy RemoteSigned` first at windows powershell)</sup>
 
 ```
 npm install -g aastbis
