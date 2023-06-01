@@ -18,7 +18,7 @@ You must have [NodeJS](https://nodejs.org/en/) and [NPM](https://www.npmjs.org) 
 In your console, run:
 
 <sup>(You may need to add `sudo` at start for Mac)</sup><br>
-<sup>(You may need to run `Set-ExecutionPolicy RemoteSigned` first at windows powershell)</sup>
+<sup>(You may need to run `Set-ExecutionPolicy RemoteSigned` first at windows powershell as administrator)</sup>
 
 ```
 npm install -g aastbis
