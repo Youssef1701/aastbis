@@ -232,6 +232,7 @@ Website
 ##### Development
 
 - Youssef Ehab ([GitHub](https://github.com/Youssef1701), [LinkedIn](https://www.linkedin.com/in/youssef-ehab-92b9791a2/), [Site](https://www.youssefehab.com/))
+- Yara Fakka ([GitHub](https://github.com/yarafakka), [LinkedIn](https://www.linkedin.com/in/youssef-ehab-92b9791a2/), [Site](https://www.youssefehab.com/))
 
 ##### Idea
 
